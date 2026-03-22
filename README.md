@@ -2,15 +2,6 @@
 
 A full-stack jewelry inventory and billing management system built with React and Node.js.
 
-## Authentication System
-
-**NEW:** Complete authentication system with secure login and session management!
-
-**IMPORTANT:** Change this password after first login!
-
-For setup instructions, see: [AUTHENTICATION_SETUP.md](AUTHENTICATION_SETUP.md)  
-For quick testing, see: [QUICK_START.md](QUICK_START.md)
-
 ## Features
 
 - **Secure Authentication** - JWT-based login with password hashing (NEW)
@@ -107,10 +98,6 @@ npm install
 npm start
 ```
 
-7. **Login**
-- Open `http://localhost:3000`
-- Use credentials: `admin@jewellery.com` / `admin123`
-
 ### Prerequisites
 - Node.js (v14 or higher)
 - PostgreSQL database
@@ -166,10 +153,6 @@ The frontend will run on `http://localhost:3000`
 
 - **Frontend**: Deployed on Vercel
 - **Backend**: Deployed on Railway
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
 
 ## License
 
